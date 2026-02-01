@@ -38,3 +38,8 @@ p span.i4{
 	padding-left: 5em;
 	text-indent: -1em;
 }
+
+/* On a Pincushion "header" */
+article#on-a-pincushion{
+	margin-top: 20vh;
+}
