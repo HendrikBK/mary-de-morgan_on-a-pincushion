@@ -35,9 +35,10 @@
 		<meta property="se:subject">Fantasy</meta>
 		<meta property="se:subject">Shorts</meta>
 		<meta property="se:is-a-collection">true</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">The first collection of fairy tales by Mary De Morgan.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/mary-de-morgan"&gt;Mary De Morgan&lt;/a&gt; brings in this collection seven tales derived from older traditions of fairy tales, presenting both supernatural elements and didatic material to its readers. Like other examples of the genre, the stories in this collection show a diversity of plots and messages, from the question of vanity in “The Story of Vain Lamorna” to a criticism of industrialization in “Siegfried and Handa.”&lt;/p&gt;
+			&lt;p&gt;Originally titled &lt;i&gt;On a Pincushion, and Other Fairy Tales&lt;/i&gt;, this is De Morgan’s first collection of literary fairy tales.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://en.wikisource.org/wiki/On_a_Pincushion,_and_Other_Fairy_Tales</dc:source>
