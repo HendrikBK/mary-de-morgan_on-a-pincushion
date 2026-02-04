@@ -43,3 +43,11 @@ p span.i4{
 article#on-a-pincushion{
 	margin-top: 20vh;
 }
+
+/* Last paragraph of "The Story of the Opal */
+#the-story-of-the-opal p:last-of-type{
+	margin-top: 1em;
+	text-align: center;
+	text-indent: 0;
+	text-transform: uppercase;
+}
