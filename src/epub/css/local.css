@@ -39,11 +39,6 @@ p span.i4{
 	text-indent: -1em;
 }
 
-/* On a Pincushion "header" */
-article#on-a-pincushion{
-	margin-top: 20vh;
-}
-
 /* q element */
 q{
 	font-style: italic;
