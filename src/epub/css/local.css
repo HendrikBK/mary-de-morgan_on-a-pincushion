@@ -51,3 +51,8 @@ article#on-a-pincushion{
 	text-indent: 0;
 	text-transform: uppercase;
 }
+
+/* q element */
+q{
+	font-style: italic;
+}
